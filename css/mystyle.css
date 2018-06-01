@@ -23,7 +23,7 @@
 }
 @media only screen and (max-width: 990px){          
 .masthead h3{
-	width:90%;
+	width:90% !important;
 	}
 }
 .callout h2{
