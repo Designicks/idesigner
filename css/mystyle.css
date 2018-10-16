@@ -42,15 +42,15 @@ footer .powerdby{
 	transition: all ease-in-out 0.2s;
 	color:pink;
 }
-.icon-layers{
+.icon-layers:hover{
 	transition: all ease-in-out 0.2s;
 	color:pink;
 }
-.icon-chart{
+.icon-chart:hover{
 transition: all ease-in-out 0.2s;
 	color:pink;
 }
-.fa fa-heart{
+.fa fa-heart:hover{
 transition: all ease-in-out 0.2s;
 	color:pink;
 }
