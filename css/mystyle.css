@@ -35,3 +35,22 @@
 footer .powerdby{
 	font-size: 15px;
 }
+.service-icon rounded-circle mx-auto mb-3:hover{	
+	background: cyan;
+}
+.icon-grid:hover{
+	transition: all ease-in-out 0.2s;
+	color:pink;
+}
+.icon-layers{
+	transition: all ease-in-out 0.2s;
+	color:pink;
+}
+.icon-chart{
+transition: all ease-in-out 0.2s;
+	color:pink;
+}
+.fa fa-heart{
+transition: all ease-in-out 0.2s;
+	color:pink;
+}
