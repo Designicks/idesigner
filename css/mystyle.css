@@ -23,6 +23,13 @@
  //opacity: 0.6;
  color:#000;
 }
+
+/*NEWSlider/Portfolio2*/
+#portfolio2{
+	margin-top: 7rem; 
+}
+/*NEWSlider/Portfolio2*/
+
 @media only screen and (max-width: 990px){          
 .masthead h3{
 	margin:0 auto;
@@ -58,3 +65,14 @@ transition: all ease-in-out 0.2s;
 transition: all ease-in-out 0.2s;
 	color:pink;
 }
+/*
+.preview{
+	display:none;
+}
+
+.alert:hover .preview{
+	display:block !important;
+	background:#fff;
+	color:#fff;
+
+}*/
